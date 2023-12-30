@@ -1,24 +1,17 @@
-# intro
+# Getting Started with Create Vue App
 
-## Project setup
-```
-npm install
-```
+## 🛠️ Installation Steps 
+  
+ 1. Clone the repository : `git clone https://github.com/ebubekirkarakurt/vue-intro-project.git`
+  
+ 2. Change the working directory : `cd vue-intro-project`
+  
+ 3. Install dependencies : `npm install `
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+ 4. Get Db : `json-server --watch db.json`
+  
+ 5. Run the app : `npm run serve`
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
+ 🌟 You are all set!
+  
